@@ -1,0 +1,3 @@
+# data_science_notes
+notes from data science school
+I will be uploading my weekly lecture notes from school here....
